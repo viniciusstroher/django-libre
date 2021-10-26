@@ -1,13 +1,13 @@
 [
   {
-    "model": "tickets.queras",
+    "model": "tickets.quera",
     "pk": 1,
     "fields": {
       "name": "Quera 1"
     }
   },
   {
-    "model": "tickets.tickets",
+    "model": "tickets.ticket",
     "pk": 1,
     "fields": {
       "title": "Quera",
