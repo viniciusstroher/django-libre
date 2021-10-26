@@ -1,0 +1,4 @@
+*.pyc
+*.cpython-39.pyc
+/app/db.sqlite3
+/__pycache__/*
